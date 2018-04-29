@@ -7,6 +7,7 @@ def module1func():
 
 if __name__ == "__main__":
     module1func()
+    module1func()
 
 
 
