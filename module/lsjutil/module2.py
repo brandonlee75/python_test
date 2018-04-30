@@ -6,6 +6,9 @@ def module2func():
 
 if __name__ == "__main__":
     module2func()
+    module2func()
+    module2func()
+    module2func()
 
 
 
